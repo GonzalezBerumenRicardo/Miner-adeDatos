@@ -4,3 +4,5 @@
 - Tarea 1: [Mapa Mental](https://github.com/GonzalezBerumenRicardo/MineriadeDatos/files/6987515/Mapa.Mental.pdf)
 - Tarea 2: [Ejercicio base de datos Equipo 3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/EjercicioBD_Equipo3.pdf)
 - Tarea 3: [Ejercicios de clase en Python](https://github.com/GonzalezBerumenRicardo/MineriadeDatos/blob/main/Ej_Python_1941497.ipynb)
+- Tarea 4: [Limpeza de datos](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo3.ipynb)
+- Tarea 5: [PIA:Primer avance](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
