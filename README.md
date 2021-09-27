@@ -6,5 +6,5 @@
 - Tarea 3: [Ejercicios de clase en Python](https://github.com/GonzalezBerumenRicardo/MineriadeDatos/blob/main/Ej_Python_1941497.ipynb)
 - Tarea 4: [Limpeza de datos](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo3.ipynb)
 - Tarea 5: [PIA:Primer avance](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
-- ##<Fase2>
+## <Fase 2>
 - Presentación: [Reglas de asociación](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
