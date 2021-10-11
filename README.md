@@ -10,3 +10,4 @@
 - Tarea 6: [Reglas de asociación](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
 - Tarea 7: [Práctica de visualización](https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_Equipo3.ipynb)
 - Tarea 8: [PIA:Segundo avance](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb)
+- Tarea 8(Modificación): [PIA:Segundo avance (modificado)](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb)
