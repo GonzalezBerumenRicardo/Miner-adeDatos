@@ -11,3 +11,4 @@
 - Tarea 7: [Práctica de visualización](https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_Equipo3.ipynb)
 - Tarea 8: [PIA:Segundo avance](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb)
 - Tarea 8(Modificación): [PIA:Segundo avance (modificado)](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb)
+- Tarea 9: [Técnicas](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Equipo3_T%C3%A9cnicas.ipynb)
